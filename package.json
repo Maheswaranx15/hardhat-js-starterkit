@@ -50,7 +50,7 @@
     "ethers": "6.6.2",
     "evm-bn": "^1.1.2",
     "fs-extra": "^11.1.1",
-    "hardhat": "2.16.1",
+    "hardhat": "^2.16.1",
     "hardhat-contract-sizer": "2.10.0",
     "hardhat-gas-reporter": "1.0.9",
     "lodash": "^4.17.21",
